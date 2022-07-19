@@ -13,8 +13,8 @@ En la carpeta de `screenshots` se encuentran vídeos demostrativos con la funcio
 
 ## Captura de pantallas adicionales
 
-### Configuración
+### Perfil de artista
 <img src="https://github.com/alejandrasuperlano/Lalu/blob/main/screenshots/Screenshot_2022-07-18-19-00-01.png?raw=true" width="350" />
 
-### Perfil de artista
+### Configuración
 <img src="https://github.com/alejandrasuperlano/Lalu/blob/main/screenshots/Screenshot_20220718_184500.jpg?raw=true" width="350" />
