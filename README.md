@@ -1,16 +1,20 @@
-# lalu
 
-A new Flutter project.
+# Lalu 🎵 Mobile App
 
-## Getting Started
+Lalu es una plataforma de reproducción de música cuya interfaz gráfica móvil está desarrollada en Dart y Flutter.
 
-This project is a starting point for a Flutter application.
+Desarrollada por:
 
-A few resources to get you started if this is your first Flutter project:
+[Miguel Ángel Bolaños Santofimio](mailto:rguarnizo@unal.edu.co)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Rosa Alejandra Superlano Esquibel](mailto:rsuperlano@unal.edu.co)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En la carpeta de `screenshots` se encuentran vídeos demostrativos con la funcionalidad de la aplicación y las pantallas realizadas
+
+## Captura de pantallas adicionales
+
+### Configuración
+<img src="https://github.com/alejandrasuperlano/Lalu/blob/main/screenshots/Screenshot_2022-07-18-19-00-01.png?raw=true" width="350" />
+
+### Perfil de artista
+<img src="https://github.com/alejandrasuperlano/Lalu/blob/main/screenshots/Screenshot_20220718_184500.jpg?raw=true" width="350" />
